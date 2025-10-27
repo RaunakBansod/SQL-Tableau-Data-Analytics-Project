@@ -1,23 +1,55 @@
-# SQL - Tableau Integration Projects
-Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
+# SQL & Tableau Data Analytics Project
 
-### Database, Database Tool and Visualization Tool
-+ MySQL
-+ MySQL Workbench
-+ Tableau Public
+An end-to-end data analytics and visualization project demonstrating how SQL and Tableau can be integrated to deliver actionable business insights.
 
-### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
+---
 
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
+### Tools & Technologies
 
-## Projects
-**SQL - MySQL for Data Analytics and Business Intelligence**: data analysis and data visualizations for answering business related questions for management including,
-+ What is breakdown between the male and female employees working in the company each year, starting from 1990?
-+ What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
-+ What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
-+ What is the athe average male and female salary per department within a certain salary range?
+* **Database:** MySQL
+* **Database Tool:** MySQL Workbench
+* **Visualization Tool:** Tableau Public
+
+---
+
+<!-- ### Live Dashboard
+
+[View Dashboard on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
+
+![Dashboard Preview](https://github.com/RaunakBansod )-->
+
+SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png
+
+---
+
+### Project Overview
+
+This project focuses on building data-driven insights using SQL for data extraction and Tableau for visualization. It explores workforce demographics, salary trends, and departmental compositions to support management decision-making.
+
+---
+
+### Key Analyses
+
+* Yearly distribution of **male vs. female employees** since 1990.
+* Comparison of **male and female managers** across departments each year.
+* **Average salary analysis** by gender and department up to 2002.
+* Gender-based **salary range trends** across departments.
+
+---
+
+### Insights & Outcomes
+
+* Clear visibility into gender representation and salary patterns across departments.
+* Identified pay disparities and workforce distribution trends over time.
+* Strengthened understanding of using **SQL joins, aggregations, and filters** for business analysis.
+* Enhanced ability to translate raw data into **interactive dashboards** and **strategic insights** using Tableau.
+
+---
+
+### Key Learnings
+
+* Building a complete data pipeline from **database querying to visualization**.
+* Combining **analytical SQL logic** with **visual storytelling** in Tableau.
+* Applying business intelligence concepts to real-world data scenarios.
 
 
-## Challenges
-**SQL - MySQL for Data Analytics and Business Intelligence** : challenges are from [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/) which is an interesting course.
