@@ -19,6 +19,8 @@ An end-to-end data analytics and visualization project demonstrating how SQL and
 ![Dashboard Preview](https://github.com/RaunakBansod )-->
 
 SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png
+<img width="1210" height="500" alt="screenshot" src="https://github.com/user-attachments/assets/459dc1d7-c5b3-4f59-a075-729424ba014d" />
+
 
 ---
 
